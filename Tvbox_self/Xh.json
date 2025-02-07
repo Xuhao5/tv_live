@@ -1,5 +1,5 @@
 {
-"spider": "./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+"spider": "./jar/xbpq20241116.jar;md5;77d0eb2881b30ea56217e5c17752af24",
 "wallpaper": "https://picsum.photos/1280/720/?blur=5",
 "sites":[
 {"key": "rarbt","name":"rarbt|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":"./XBPQ/YINGSHI.json"},
