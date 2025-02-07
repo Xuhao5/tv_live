@@ -3,7 +3,7 @@
 "wallpaper": "https://picsum.photos/1280/720/?blur=5",
 "sites":[
 {"key": "rarbt","name":"rarbt|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":"./XBPQ/YINGSHI.json"},
-{"key": "rarbt","name":"rarbt|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":"./XBPQ/lqjyy.json"}
+{"key": "lqjyy","name":"练气境影院|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":"./XBPQ/lqjyy.json"}
 ]
 }
 
