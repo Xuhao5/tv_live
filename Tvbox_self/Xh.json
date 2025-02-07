@@ -5,7 +5,7 @@
 //{"key": "rarbt","name":"rarbt|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":"./XBPQ/YINGSHI.json"},
 {"key": "rarbt","name":"rarbt|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":{
     "分类url": "https://www.rarbt.fun/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html",
-    "分类":"电影$1#电视剧$2#动漫$4#综艺$3"}
+    "分类":"电影$movie#电视剧$Series#动漫$cartoon#综艺$variety"}
 }
 {"key": "lqjyy","name":"练气境影院|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":"./XBPQ/lqjyy.json"}
 ]
