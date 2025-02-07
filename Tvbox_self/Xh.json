@@ -2,7 +2,11 @@
 "spider": "./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
 "wallpaper": "https://picsum.photos/1280/720/?blur=5",
 "sites":[
-{"key": "rarbt","name":"rarbt|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":"./XBPQ/YINGSHI.json"},
+//{"key": "rarbt","name":"rarbt|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":"./XBPQ/YINGSHI.json"},
+{"key": "rarbt","name":"rarbt|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":{
+    "分类url": "https://www.rarbt.fun/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html",
+    "分类":"电影$1#电视剧$2#动漫$4#综艺$3"}
+}
 {"key": "lqjyy","name":"练气境影院|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":"./XBPQ/lqjyy.json"}
 ]
 }
