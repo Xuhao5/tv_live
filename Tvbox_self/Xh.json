@@ -2,7 +2,8 @@
 "spider": "./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
 "wallpaper": "https://picsum.photos/1280/720/?blur=5",
 "sites":[
-{"key": "rarbt","name":"rarbt|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":"./XBPQ/YINGSHI.json"}
+{"key": "rarbt","name":"rarbt|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":"./XBPQ/YINGSHI.json"},
+{"key": "rarbt","name":"rarbt|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":"./XBPQ/lqjyy.json"}
 ]
 }
 
