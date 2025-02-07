@@ -1,0 +1,12 @@
+
+{
+    "spider": "./jar/cs.jar;md5;65dcb3aae24e62061e08af7611254ec9",
+    "wallpaper": "https://picsum.photos/1280/720/?blur=5",
+    "sites":[
+        {"key": "黑狐","name":"黑狐|BPQ","type": 3,"searchable": 1,"quicksearch": 1, "playerType":2 ,"api":"csp XBPQ",
+    "ext":"./XBPQ/YINGSHI.json"}
+    ]
+}
+
+
+    
