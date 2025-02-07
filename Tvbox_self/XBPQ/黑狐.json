@@ -1,6 +1,6 @@
 {   
 "站名":"黑狐影院",
-"主页url":"aHR0cDovL2ZhZ21uLmNvbQ=-",//Base64转码
+"主页url":"http://www.caledonlight.com/",
 "数组":"class=\"stui-vodlist box\"&&</a",
 "图片": "data-original-\"&&\"",
 "标题":"title=\"&&\"",
@@ -8,7 +8,7 @@
 "探词":".m3u8#v3.huoshanvod,com#v3-dy-0,zjcdn#sf16-sg.larksuitecdn.com",
 "过滤词":"/hls/#php",
 "副标题":"<span class=\"pic-text text-right\">&&</span>",
-"搜索url": "aHR0cDovL2ZhZ21uLmNvbQ==/search.php;post;searchword={wd}",
+"搜索url": "http://www.caledonlight.com/search.php?searchword={wd}&submit=",
 "搜索模式":"1",
 "搜索数组":"<a class=\"v-thumb stui-vodlist thumb&&</a>",
 "搜索图片":"data-original=\"&&\"",
@@ -26,6 +26,6 @@
 "播放标题":">&&<",
 "插放链接":"href=\"&&\"",
 "免嗅":"0",
-"分类":"电影$1#电视剧$2#动漫$3#综艺S4",
+"分类":"电影$1#电视剧$2#动漫$3#综艺$4#完整版短剧$27",
 "分类url": "aHR0cDovL2ZhZ21uLmNvbQ==/list/{cateld} {catePgl.html?order-time"
 }
