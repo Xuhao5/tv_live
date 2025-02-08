@@ -1,2 +1,9 @@
 {
-  "spider": "http://ftp6284928.host108.abeiyun.cn/jar/xiaoya.txt;md5;640134490d5e29918464d07eaa6a1dc4",
+"spider": "./jar/xbpq20241116.jar;md5;77d0eb2881b30ea56217e5c17752af24",
+"wallpaper": "https://picsum.photos/1280/720/?blur=5",
+"sites":[
+{"key": "md","name":"md|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":2 ,"api":"csp_XBPQ","ext":{
+"分类url": "https://91md.me/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+"分类": "麻豆视频$1#91制片厂$2#天美传媒$3#蜜桃传媒$4#皇家华人$5#星空传媒$6#精东影业$7#乐播传媒$8#成人头条$9#乌鸦传媒$10#兔子先生$20#杏吧原创$21#玩偶姐姐$22#mini传媒$23#大象传媒$24#开心鬼传媒$25#萝莉社$29#PsychoPorn$26#糖心Vlog$27#性视界$30"
+}
+}
