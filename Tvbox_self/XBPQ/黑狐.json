@@ -1,7 +1,7 @@
 {   
 "站名":"黑狐影院",
 "主页url":"http://www.caledonlight.com/",
-"数组":"class=\"stui-vodlist box\"&&</a",
+"数组":"class=\"myui-vodlist__box\"&&</a",
 "图片": "data-original-\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
@@ -10,14 +10,14 @@
 "副标题":"<span class=\"pic-text text-right\">&&</span>",
 "搜索url": "http://www.caledonlight.com/search.php?searchword={wd}&submit=",
 "搜索模式":"1",
-"搜索数组":"<a class=\"v-thumb stui-vodlist thumb&&</a>",
+"搜索数组":"<a class=\"v-thumb myui-vodlist thumb&&</a>",
 "搜索图片":"data-original=\"&&\"",
 "搜索标题":"title=\"&&\"",
 "搜索链接":"href=\"&&\"",
 "搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
 "搜索后缀":"/view/", "线路数组":"href-\"#down&&/a>[營換:奇异视頻>>黑狐一线#优酷视頻>>黑狐二线#捜狐视頻>>黑狐三线#咪咕视频>>黑狐四线]",
 "线路标题":">&&<",
-"播放数组":"class=\"stui-content playlist clearfix&&</ul>",
+"播放数组":"class=\"myui-content playlist clearfix&&</ul>",
 "状态":"地区:&&</p>",
 "导演":"导演:&&</p>",
 "主演":"主演:&&</p>",
@@ -27,5 +27,5 @@
 "插放链接":"href=\"&&\"",
 "免嗅":"0",
 "分类":"电影$1#电视剧$2#动漫$3#综艺$4#完整版短剧$27",
-"分类url": "aHR0cDovL2ZhZ21uLmNvbQ==/list/{cateld} {catePgl.html?order-time"
+"分类url": "http://www.caledonlight.com/search.php?page={catepg}&searchtype=5&tid={calss}&area={area}&year={year}&yuyan={lang}"
 }
