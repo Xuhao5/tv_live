@@ -2,6 +2,7 @@
 "spider": "./jar/xbpq20241116.jar;md5;77d0eb2881b30ea56217e5c17752af24",
 "wallpaper": "https://picsum.photos/1280/720/?blur=5",
 "sites":[
+{"key": "md","name":"md|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":2 ,"api":"csp_XBPQ","ext":"./XBPQ/md.json"},
 {"key": "黑狐","name":"黑狐|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":2 ,"api":"csp_XBPQ","ext":"./XBPQ/黑狐.json"},
 {"key": "rarbt","name":"rarbt|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":"./XBPQ/YINGSHI.json"},
 {"key": "lqjyy","name":"练气境影院|XBPQ","type": 3,"searchable": 1,"quickSearch": 1, "playerType":"2" ,"api":"csp_XBPQ", "ext":"./XBPQ/lqjyy.json"}
